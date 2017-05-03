@@ -1,5 +1,9 @@
 package com.java.chap03.sec03;
 
+/**
+ * @author yush
+ *
+ */
 public class Person {
 	
 	void speak(){
