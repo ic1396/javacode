@@ -6,8 +6,7 @@ public class Person2 {
 		System.out.println("我是"+name);
 	}
 	public static void main(String[] args) {
-		Person2 person=new Person2();
-		person.speak("李四");
+		Person2 zhangsan=new Person2();
+		zhangsan.speak("张三");
 	}
-
 }
