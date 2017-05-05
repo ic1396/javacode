@@ -1,5 +1,9 @@
 package com.java.chap03.sec03;
 
+/**
+ * @author yush
+ * 方法返回值例子
+ */
 public class Person6 {
 	
 	/**
