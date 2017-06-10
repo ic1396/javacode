@@ -26,7 +26,7 @@ public class People {
 	 * @param myName
 	 * @param myAge
 	 */
-	People(String myName, int myAge){
+	public People(String myName, int myAge){
 		this();    //调用无参数的构造方法，必须放在构造函数的第一行
 		System.out.println("带参数构造函数");
 		name = myName;
