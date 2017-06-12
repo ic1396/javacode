@@ -11,6 +11,23 @@ public class Animal {
 	private String name;  //姓名
 	private int age;  //年龄
 	
+	/**
+	 * 无参数父类构造函数
+	 */
+	public Animal(){
+		System.out.println("无参数父类构造函数");
+	}
+	
+	/**
+	 * @param name  //姓名
+	 * @param age   //年龄
+	 */
+	public Animal(String name, int age) {
+		System.out.println("有参数父类构造函数");
+		this.name = name;
+		this.age = age;
+	}
+
 	public String getName() {
 		return name;
 	}
