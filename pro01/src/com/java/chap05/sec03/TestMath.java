@@ -1,7 +1,7 @@
 package com.java.chap05.sec03;
 
 /**
- * 
+ * Java≥£”√¿‡£∫Math
  *
  */
 public class TestMath {
